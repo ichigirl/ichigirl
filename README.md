@@ -123,4 +123,4 @@ _Kawaii utilities and helpers_
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sunflower.png" width="30" /> &nbsp; Made with 💖 and sakura petals &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Watermelon.png" width="30" />
 
-</div>"
+</div>
