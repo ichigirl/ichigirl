@@ -10,7 +10,7 @@
 
 🌼 • 🌸 • 💕 • 🎀 • 💫 • 🌸 • 🌼
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=800&size=32&pause=800&color=FF1493&center=true&vCenter=true&width=700&lines=💖%20Kawaii%20Developer;🌺%20Creative%20Spirit;✨%20Spreading%20Joy;🌸%20Code%20with%20Love" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ichigirl/ichigirl/refs/heads/main/typing.svg" alt="Typing SVG" />
 
 🌼 • 🌸 • 💕 • 🎀 • 💫 • 🌸 • 🌼
 
