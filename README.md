@@ -117,7 +117,7 @@ _Kawaii utilities and helpers_
 <div align="center">
 
 <span style="display:flex; flex-direction: row; gap: 6; justify-content: center;">
-    <a href="https://github.com/ichigirl"><img src="https://cdn.simpleicons.org/github/FFB6D9" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/ichigirl"><img src="https://cdn.simpleicons.org/x/FFB6D9" width="40" alt="Twitter" /></a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/ichigirl"><img src="https://cdn.simpleicons.org/instagram/FFB6D9" width="40" alt="Instagram" /></a>
+    <a href="https://github.com/ichigirl"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sakura-ichigo-6977593b4/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  <a href="https://instagram.com/ichigirl"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram" /></a>
 </span>
 <br/>
 
